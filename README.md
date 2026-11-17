@@ -1,5 +1,11 @@
 # Carbon Coach
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![API-Swagger docs](https://img.shields.io/badge/API-Swagger_docs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
 A FastAPI backend that tracks your daily carbon footprint from transport and food, compares it to a daily target, and gives you specific swaps to bring it down.
 
 ## What it does
