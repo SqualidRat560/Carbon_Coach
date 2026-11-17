@@ -13,3 +13,13 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# Local data / personal files
+*.db
+*.pdf
